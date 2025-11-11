@@ -1,0 +1,107 @@
+{
+  "warns": {
+    "1117441053809721394": [
+      {
+        "reason": "Bad word usage",
+        "date": 1762791280895,
+        "moderator": "AutoMod"
+      },
+      {
+        "reason": "Bad word usage",
+        "date": 1762791442878,
+        "moderator": "AutoMod"
+      },
+      {
+        "reason": "Bad word usage",
+        "date": 1762791460517,
+        "moderator": "AutoMod"
+      },
+      {
+        "reason": "Bad word usage",
+        "date": 1762791467152,
+        "moderator": "AutoMod"
+      },
+      {
+        "reason": "Bad word usage",
+        "date": 1762791470331,
+        "moderator": "AutoMod"
+      },
+      {
+        "reason": "Bad word usage",
+        "date": 1762791479247,
+        "moderator": "AutoMod"
+      }
+    ]
+  },
+  "economy": {
+    "1117441053809721394": {
+      "balance": 1981,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastWeekly": 1762791354656,
+      "lastWork": 0,
+      "lastCrime": 0,
+      "lastRob": 0
+    }
+  },
+  "inventory": {
+    "1117441053809721394": [
+      "Lucky Charm"
+    ]
+  },
+  "cooldowns": {
+    "1117441053809721394-work": 1762794898838
+  },
+  "settings": {
+    "badWords": [
+      "badword1",
+      "badword2",
+      "fuck",
+      "shit",
+      "nigga",
+      "gay"
+    ],
+    "prefix": ">",
+    "muteRole": null,
+    "welcomeChannel": null,
+    "goodbyeChannel": null,
+    "logChannel": null
+  },
+  "snipes": {
+    "1435938776747741194": {
+      "content": ">addword shit",
+      "author": {
+        "id": "1117441053809721394",
+        "bot": false,
+        "system": false,
+        "flags": 128,
+        "username": "yllimorina_xd",
+        "globalName": "YlliMorina_XD",
+        "discriminator": "0",
+        "avatar": "9c62a6d7b6bb91628eff27354ae9effc",
+        "banner": "824bc3fb98ec69c1e7c0e4ed25f83acb",
+        "accentColor": 0,
+        "avatarDecoration": null,
+        "avatarDecorationData": {
+          "asset": "a_db05e7fc49cb1a078f6aec1e559e2891",
+          "skuId": "1316597786862419988"
+        },
+        "collectibles": null,
+        "primaryGuild": null,
+        "createdTimestamp": 1686489108279,
+        "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/3.png",
+        "hexAccentColor": "#000000",
+        "tag": "yllimorina_xd",
+        "avatarURL": "https://cdn.discordapp.com/avatars/1117441053809721394/9c62a6d7b6bb91628eff27354ae9effc.webp",
+        "displayAvatarURL": "https://cdn.discordapp.com/avatars/1117441053809721394/9c62a6d7b6bb91628eff27354ae9effc.webp",
+        "bannerURL": "https://cdn.discordapp.com/banners/1117441053809721394/824bc3fb98ec69c1e7c0e4ed25f83acb.webp",
+        "guildTagBadgeURL": null
+      },
+      "timestamp": 1762791478747
+    }
+  },
+  "editSnipes": {},
+  "afk": {},
+  "todos": {},
+  "reminders": []
+}
